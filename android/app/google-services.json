@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "982094652112",
+    "project_id": "nivlec-wallpaper",
+    "storage_bucket": "nivlec-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982094652112:android:c420aa13d97cac5ef9b4d5",
+        "android_client_info": {
+          "package_name": "agutusam.wallpaper_mw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982094652112-akb3fmpvpojfso0n7qag8h0jrjc2c59a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "agutusam.wallpaper_mw",
+            "certificate_hash": "cb4a253446e3f090d4f3369c12b64c72a4f4e415"
+          }
+        },
+        {
+          "client_id": "982094652112-lj4s917fs62apgng2ksakcglpkoujm7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "agutusam.wallpaper_mw",
+            "certificate_hash": "3376d58f9e816d0010f8cc33945b77f1f6a448ed"
+          }
+        },
+        {
+          "client_id": "982094652112-ihhg4psgjtn97dj931sionl4n9lbgb9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8ZdiUeZoNTO73rsXebTPAXpj4NtEx6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982094652112-ihhg4psgjtn97dj931sionl4n9lbgb9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
